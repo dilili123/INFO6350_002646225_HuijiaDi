@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>566792589403-bqj6ba6pik5nk4csn7jo2f785g2hrqsm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.566792589403-bqj6ba6pik5nk4csn7jo2f785g2hrqsm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDwuzH2EPioXg66ZNigLqtL1pBQlEjLRp8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>566792589403</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.start</string>
+	<key>PROJECT_ID</key>
+	<string>huijiadi-info6350-exercise</string>
+	<key>STORAGE_BUCKET</key>
+	<string>huijiadi-info6350-exercise.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:566792589403:ios:a2f2bba33819468b39ef7e</string>
+</dict>
+</plist>
